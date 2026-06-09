@@ -52,7 +52,6 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 
 #### NLP / LLMs
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 #### Web (MERN)
