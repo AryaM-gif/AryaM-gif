@@ -6,7 +6,7 @@
   1. Create a new PUBLIC repository named exactly:  AryaM-gif
      (it must match your username for GitHub to show it on your profile)
   2. Add this file as README.md in that repo.
-  3. Search for the word  EDIT:  below and fill in / remove those bits.
+  3. Search for  EDIT:  to find anything left to fill in.
   ============================================================
 -->
 
@@ -23,20 +23,20 @@
 </div>
 
 <!-- ============ ABOUT ============ -->
-##  About Me
+## About Me
 
-I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data Science**. I build end-to-end machine learning solutions — from data and modeling to deployment — and I bring a full-stack engineering background that helps me ship ML into real, usable products.
+I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer Science background and experience across both machine learning and full-stack development.
 
--  Strong in **Classical Machine Learning** and **NLP / LLMs**
--  Former **MERN stack** developer — comfortable across the full product lifecycle
--  Built ML projects in **healthcare diagnostics**, **computer vision**, and **document intelligence**
--  Focused on **applied ML engineering** — turning models into working systems
--  EDIT: Reach me — *LinkedIn coming soon* · `your.email@example.com`
+- Mainly work in machine learning and NLP, with some LLM application work
+- Came into ML from MERN stack web development
+- Projects in healthcare diagnostics, document intelligence, and predictive analytics
+- Like building AI that ends up as something usable, not just a notebook
+- Currently learning computer vision and deployment to fill the gaps
 
 <br/>
 
 <!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +50,7 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-#### NLP / LLMs
+#### NLP
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
@@ -69,23 +69,23 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 <br/>
 
 <!-- ============ FEATURED PROJECTS ============ -->
-##  Featured Projects
+## Featured Projects
 
-> EDIT: Update the one-line results (accuracy / metric) once you confirm the numbers.
+> EDIT: add a one-line result (accuracy / metric) to each ML project once you confirm the numbers.
 
 | Project | Description | Tech |
 |---|---|---|
-|  **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Document intelligence system that extracts and manages invoice data using computer vision. | Python, CV |
-|  **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | ML detection of Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, scikit-learn |
-|  **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
-|  **[MANA-PHARMA-Internship](https://github.com/AryaM-gif/MANA-PHARMA-Internship)** | Applied data science / ML work from pharma internship. | Jupyter, ML |
-|  **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | Elegant React e-commerce store for plants with smooth UI. | React, JS |
-|  **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
+| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | Python |
+| **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, scikit-learn |
+| **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
+| **[Paddy-Leaf-Detection](https://github.com/AryaM-gif/Paddy-Leaf-Detection)** | EDIT: one line on what it does (e.g. classifying paddy leaf diseases from images). | EDIT |
+| **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
+| **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce store for plants. | React, JS |
 
 <br/>
 
 <!-- ============ GITHUB STATS ============ -->
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -101,16 +101,15 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 <br/>
 
 <!-- ============ CONNECT ============ -->
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
-<!-- EDIT: paste your real LinkedIn URL between the parentheses once your profile is updated -->
 <a href="https://www.linkedin.com/in/arya-m01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!-- EDIT: replace the email below -->
-<a href="mailto:aryamony015email@example.com">
+<!-- EDIT: confirm this is your real email -->
+<a href="mailto:aryamony015@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/AryaM-gif">
