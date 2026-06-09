@@ -76,12 +76,12 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧾 **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Document intelligence system that extracts and manages invoice data using computer vision. | Python, CV |
-| 🩺 **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | ML detection of Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, scikit-learn |
-| ❤️ **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
-| 💊 **[MANA-PHARMA-Internship](https://github.com/AryaM-gif/MANA-PHARMA-Internship)** | Applied data science / ML work from pharma internship. | Jupyter, ML |
-| 🛒 **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | Elegant React e-commerce store for plants with smooth UI. | React, JS |
-| 👜 **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
+|  **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Document intelligence system that extracts and manages invoice data using computer vision. | Python, CV |
+|  **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | ML detection of Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, scikit-learn |
+|  **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
+|  **[MANA-PHARMA-Internship](https://github.com/AryaM-gif/MANA-PHARMA-Internship)** | Applied data science / ML work from pharma internship. | Jupyter, ML |
+|  **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | Elegant React e-commerce store for plants with smooth UI. | React, JS |
+|  **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
 
 <br/>
 
@@ -107,11 +107,11 @@ I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data S
 <div align="center">
 
 <!-- EDIT: paste your real LinkedIn URL between the parentheses once your profile is updated -->
-<a href="EDIT_YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/arya-m01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!-- EDIT: replace the email below -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:aryamony015email@example.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/AryaM-gif">
