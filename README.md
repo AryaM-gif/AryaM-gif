@@ -1,0 +1,128 @@
+<!--
+  ============================================================
+  GITHUB PROFILE README  —  AryaM-gif
+  ------------------------------------------------------------
+  HOW TO USE THIS FILE
+  1. Create a new PUBLIC repository named exactly:  AryaM-gif
+     (it must match your username for GitHub to show it on your profile)
+  2. Add this file as README.md in that repo.
+  3. Search for the word  EDIT:  below and fill in / remove those bits.
+  ============================================================
+-->
+
+<!-- ============ HEADER BANNER (animated gradient) ============ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Arya%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" alt="header"/>
+
+<!-- Animated typing line -->
+<a href="https://github.com/AryaM-gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;M.Tech+in+AI+%26+Data+Science;Classical+ML+%7C+NLP+%2F+LLMs;Full-Stack+%28MERN%29+Background" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ============ ABOUT ============ -->
+## 👋 About Me
+
+I'm an **AI / ML Engineer** with an **M.Tech in Artificial Intelligence & Data Science**. I build end-to-end machine learning solutions — from data and modeling to deployment — and I bring a full-stack engineering background that helps me ship ML into real, usable products.
+
+- 🧠 Strong in **Classical Machine Learning** and **NLP / LLMs**
+- 🌐 Former **MERN stack** developer — comfortable across the full product lifecycle
+- 🔬 Built ML projects in **healthcare diagnostics**, **computer vision**, and **document intelligence**
+- 🚀 Focused on **applied ML engineering** — turning models into working systems
+- 📫 EDIT: Reach me — *LinkedIn coming soon* · `your.email@example.com`
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Machine Learning & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### NLP / LLMs
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+#### Web (MERN)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+## 📌 Featured Projects
+
+> EDIT: Update the one-line results (accuracy / metric) once you confirm the numbers.
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧾 **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Document intelligence system that extracts and manages invoice data using computer vision. | Python, CV |
+| 🩺 **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | ML detection of Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, scikit-learn |
+| ❤️ **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
+| 💊 **[MANA-PHARMA-Internship](https://github.com/AryaM-gif/MANA-PHARMA-Internship)** | Applied data science / ML work from pharma internship. | Jupyter, ML |
+| 🛒 **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | Elegant React e-commerce store for plants with smooth UI. | React, JS |
+| 👜 **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaM-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ============ CONNECT ============ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+<!-- EDIT: paste your real LinkedIn URL between the parentheses once your profile is updated -->
+<a href="EDIT_YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<!-- EDIT: replace the email below -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/AryaM-gif">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%" alt="footer"/>
+</div>
