@@ -78,7 +78,7 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 | **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | OCR/Vision AI,Python |
 | **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python,Audio Signal Processing, ML, scikit-learn |
 | **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
-| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** |AI-powered lecture assistant that converts uploaded lecture audio into text, analyzes the content, generates concise summaries, and extracts key information for quick revision and note-taking. | Python, Speech-to-Text, NLP, Text Summarization, Gemini API, Generative AI|
+| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** |Transcribes lecture recordings, generates concise summaries, and extracts key information using AI-powered NLP. | Python, Speech-to-Text, NLP, Text Summarization, Gemini API, Generative AI|
 | **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
 | **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce store for plants. | React, JS |
 
