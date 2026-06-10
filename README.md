@@ -89,7 +89,8 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE&cache_seconds=86400" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE&cache_seconds=86400" alt="stats" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8&cache_seconds=86400" alt="top langs" />
 
 <br/><br/>
