@@ -75,10 +75,10 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 | Project | Description | Tech |
 |---|---|---|
-| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | OCR/Vision AI,Python |
-| **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python,Audio Signal Processing, ML, scikit-learn |
+| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | OCR/Vision AI, Python |
+| **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, Audio Signal Processing, ML, scikit-learn |
 | **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
-| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** |Transcribes lecture recordings, generates concise summaries, and extracts key information using AI-powered NLP. | Python, Speech-to-Text, NLP, Text Summarization, Gemini API, Generative AI|
+| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** | Transcribes lecture recordings, generates concise summaries, and extracts key information using AI-powered NLP. | Python, Speech-to-Text, NLP, Gemini API |
 | **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
 | **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce store for plants. | React, JS |
 
@@ -89,12 +89,12 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8" alt="top langs" />
+<img height="165" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE" alt="stats" />
+<img height="165" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8" alt="top langs" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaM-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=AryaM-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak" />
 
 </div>
 
@@ -108,7 +108,6 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 <a href="https://www.linkedin.com/in/arya-m01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!-- EDIT: confirm this is your real email -->
 <a href="mailto:aryamony015@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
