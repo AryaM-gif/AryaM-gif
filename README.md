@@ -75,7 +75,7 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 | Project | Description | Tech |
 |---|---|---|
-| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | Python |
+| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | OCR/Vision AI,Python |
 | **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python,Audio Signal Processing, ML, scikit-learn |
 | **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
 | **[Paddy-Leaf-Detection](https://github.com/AryaM-gif/Paddy-Leaf-Detection)** |Identifies and classifies rice (paddy) leaf diseases from uploaded leaf images using a Convolutional Neural Network (CNN) deep learning model. | Python, Deep Learning |
