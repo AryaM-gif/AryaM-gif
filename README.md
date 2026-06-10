@@ -15,7 +15,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Arya%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" alt="header"/>
 
-<!-- Animated typing line -->
 <a href="https://github.com/AryaM-gif">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;M.Tech+in+AI+%26+Data+Science;Classical+ML+%7C+NLP+%2F+LLMs;Full-Stack+%28MERN%29+Background" alt="Typing SVG" />
 </a>
@@ -83,8 +82,6 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 | **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce store for plants. | React, JS |
 
 <br/>
-
-
 
 <!-- ============ CONNECT ============ -->
 ## Connect With Me
