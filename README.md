@@ -6,6 +6,7 @@
   1. Create a new PUBLIC repository named exactly:  AryaM-gif
      (it must match your username for GitHub to show it on your profile)
   2. Add this file as README.md in that repo.
+  3. Search for  EDIT:  to find anything left to fill in.
   ============================================================
 -->
 
@@ -29,7 +30,7 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 - Came into ML from MERN stack web development
 - Projects in healthcare diagnostics, document intelligence, and predictive analytics
 - Like building AI that ends up as something usable, not just a notebook
-- Currently expanding into computer vision and model deployment
+- Currently learning computer vision and deployment to fill the gaps
 
 <br/>
 
@@ -63,38 +64,24 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+
 <br/>
 
 <!-- ============ FEATURED PROJECTS ============ -->
 ## Featured Projects
 
+> EDIT: add a one-line result (accuracy / metric) to each ML project once you confirm the numbers.
+
 | Project | Description | Tech |
 |---|---|---|
-| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and structures invoice data automatically using vision AI — no manual entry. | OCR, Vision AI, Python |
-| **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detects Parkinson's Disease from voice using prosodic features: pitch, jitter, and shimmer. | Python, Audio Signal Processing, scikit-learn |
-| **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Predicts coronary heart disease risk from clinical patient data. | Python, ML |
-| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** | Transcribes lecture recordings and extracts key points using speech-to-text + LLM. | Python, Speech-to-Text, NLP, Gemini API |
-| **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags with cart, auth, and product management. | MERN |
-| **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce storefront for plants with browse and cart functionality. | React, JavaScript |
-
-> 💡 **Tip:** Once you have accuracy/metric numbers for your ML projects, add them to the descriptions above — e.g. *"92% accuracy on test set"*. It makes a real difference to recruiters.
+| **[AI-Vision-Invoice-Manager](https://github.com/AryaM-gif/AI-Vision-Invoice-Manager)** | Extracts and manages invoice data automatically. | OCR/Vision AI, Python |
+| **[Parkinsons-voice-detection](https://github.com/AryaM-gif/Parkinsons-voice-detection-prosodic-features)** | Detecting Parkinson's Disease from prosodic voice features (pitch, jitter, shimmer). | Python, Audio Signal Processing, ML, scikit-learn |
+| **[CHD-detection](https://github.com/AryaM-gif/CHD-detection)** | Coronary heart disease risk prediction from clinical data. | Python, ML |
+| **[Lecture-Audio-Summarization-and-Key-Information-Extraction](https://github.com/AryaM-gif/Lecture-Audio-Summarization-and-Key-Information-Extraction)** | Transcribes lecture recordings, generates concise summaries, and extracts key information using AI-powered NLP. | Python, Speech-to-Text, NLP, Gemini API |
+| **[Effortless-Elegance](https://github.com/AryaM-gif/Effortless-Elegance)** | Full-stack e-commerce platform for women's bags. | MERN |
+| **[PlantStore](https://github.com/AryaM-gif/PlantStore)** | React e-commerce store for plants. | React, JS |
 
 <br/>
-
-<!-- ============ GITHUB STATS ============ -->
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE&cache_seconds=86400" alt="stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8&cache_seconds=86400" alt="top langs" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=AryaM-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak" />
-
-</div>
 
 <!-- ============ CONNECT ============ -->
 ## Connect With Me
