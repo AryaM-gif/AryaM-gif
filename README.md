@@ -83,6 +83,21 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 <br/>
 
+<!-- ============ GITHUB STATS ============ -->
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&icon_color=26D0CE&cache_seconds=86400" alt="stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26D0CE&langs_count=8&cache_seconds=86400" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=AryaM-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak" />
+
+</div>
+
 <!-- ============ CONNECT ============ -->
 ## Connect With Me
 
