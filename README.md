@@ -34,22 +34,6 @@ I'm an M.Tech student in Artificial Intelligence & Data Science with a Computer 
 
 <br/>
 
-<!-- ============ GITHUB STATS (auto-updating, live on every page load) ============ -->
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaM-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arya's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaM-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaM-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AryaM-gif&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
 <!-- ============ TECH STACK ============ -->
 ## Tech Stack
 
